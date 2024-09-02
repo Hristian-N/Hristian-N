@@ -21,6 +21,7 @@ My name is Hristian Nikolov, and I am a 24-year-old Junior Full-Stack Developer.
 **🗂️ Projects (links for easier access)**
 - Smart-Garage-V2: https://github.com/Hristian-N/Smart-Garage-V2.git (still in development)
 - Java-User-Management-Application: https://github.com/Hristian-N/Java-User-Management-Application.git
+- CurrencyConversion: https://github.com/Hristian-N/CurrencyConversion.git
 - Krezcar.com - https://www.krezcar.com/
 - Smart-garage - https://github.com/A54-Dev-Team-3/Smart-Garage
 - Forum Management System: https://github.com/Dev-team-3-A54-C/Forum_Managment_System
