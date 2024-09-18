@@ -19,6 +19,7 @@ My name is Hristian Nikolov, and I am a 24-year-old Junior Full-Stack Developer.
 #
 
 **🗂️ Projects (links for easier access)**
+- React-TODO-app: https://github.com/Hristian-N/React-TODO-app.git
 - Smart-Garage-V2: https://github.com/Hristian-N/Smart-Garage-V2.git (still in development)
 - Java-User-Management-Application: https://github.com/Hristian-N/Java-User-Management-Application.git
 - CurrencyConversion: https://github.com/Hristian-N/CurrencyConversion.git
