@@ -2,7 +2,7 @@ Hi there 👋
 
 My name is Hristian Nikolov, and I am a 24-year-old Junior Full-Stack Developer. I recently graduated from Telerik Academy's C# Track, where I learned a lot about about C#, .NET, Entity Framework, HTML, CSS, and SQL. Currently, I am focusing on learning both Java and React at the same time. I am eager to get involved in professional software engineering.
 
-Phone Number: +359879062731
+Phone Number: +359879062731<br>
 Linkedin: www.linkedin.com/in/hristiann
 
 #
