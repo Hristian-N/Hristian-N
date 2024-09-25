@@ -22,6 +22,7 @@ Linkedin: www.linkedin.com/in/hristiann
 #
 
 **🗂️ Projects (links for easier access)**
+- Swift-News-App: https://github.com/Hristian-N/Swift-News-App.git
 - React-TODO-app: https://github.com/Hristian-N/React-TODO-app.git
 - Smart-Garage-V2: https://github.com/Hristian-N/Smart-Garage-V2.git (still in development)
 - Java-User-Management-Application: https://github.com/Hristian-N/Java-User-Management-Application.git
