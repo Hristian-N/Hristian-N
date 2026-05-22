@@ -1,5 +1,5 @@
 <a href="https://hristiann.dev">
-  <img src="./assets/banner.png" width="100%" alt="Hristian Nikolov - Junior Full Stack Developer"/>
+  <img src="./assets/banner.jpg" width="100%" alt="Hristian Nikolov - Junior Full Stack Developer"/>
 </a>
 
 <img src="./assets/divider.svg" width="100%"/>
