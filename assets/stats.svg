@@ -6,7 +6,7 @@
     
     <animate 
       attributeName="stroke" 
-      values="#00D2FF; #0052D4; #00D2FF" 
+      values="#0065C9; #02CCFE ;#0065C9"
       dur="3s" 
       repeatCount="indefinite" />
   </g>
