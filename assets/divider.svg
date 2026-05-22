@@ -1,9 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" fill="none">
-  <path d="M0 3H1200" stroke="#0068C9" stroke-width="6" stroke-linecap="round">
-    <animate 
-      attributeName="stroke" 
-      values="#0068C9; #02CCFE" 
-      dur="3s" 
-      repeatCount="indefinite" />
-  </path>
+  <defs>
+    <!-- Define a gradient that stretches beyond the viewable area -->
+    <linearGradient id="leftToRightSweep" x1="0%" y1="0%" x2="200%" y2="0%">
+      <!-- First color segment -->
+      <stop offset="0%" stop-color="#0068C9" />
+      <stop offset="50%" stop-color="#02CCFE" />
+      <!-- Second color segment to create a smooth, seamless loop -->
+      <stop offset="100%" stop-color="#0068C9" />
+      
+      <!-- Animate the gradient's position from left to right -->
+      <animate 
+        attributeName="x1" 
+        from="0%" 
+        to="-100%" 
+        dur="3s" 
+        repeatCount="indefinite" />
+      <animate 
+        attributeName="x2" 
+        from="200%" 
+        to="100%" 
+        dur="3s" 
+        repeatCount="indefinite" />
+    </linearGradient>
+  </defs>
+
+  <!-- Apply the moving gradient to the stroke -->
+  <path d="M0 3H1200" stroke="url(#leftToRightSweep)" stroke-width="6" stroke-linecap="round" />
 </svg>
