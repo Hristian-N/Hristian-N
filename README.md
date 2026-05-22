@@ -1,33 +1,102 @@
-Hi there 👋
+<a href="https://hristiann.dev">
+  <img src="./assets/banner.png" width="100%" alt="Hristian Nikolov - Junior Full Stack Developer"/>
+</a>
 
-My name is Hristian Nikolov, and I am a 24-year-old Junior Full-Stack Developer. I recently graduated from Telerik Academy's C# Track, where I learned a lot about about C#, .NET, Entity Framework, HTML, CSS, and SQL. Currently, I am focusing on learning both Java and React at the same time. I am eager to get involved in professional software engineering.
+<img src="./assets/divider.svg" width="100%"/>
 
-Phone Number: +359879062731<br>
-Linkedin: www.linkedin.com/in/hristiann
+<br>
 
-#
+<h3 align="center">Hi there 👋, I'm Hristian Nikolov</h3>
 
-**🛠️ Technologies**
+<p align="center">
+  <strong>Junior Full Stack Developer</strong> based in Bulgaria 🇧🇬
+</p>
 
-<div style="display: flex; align-items: flex-start;">
-<img src="https://camo.githubusercontent.com/058a8b6c8eedbe1987507322540e816583453703349be4f62a17cfd8c89ec166/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667" alt="c#" width="40" height="40"/>
-<img src="https://camo.githubusercontent.com/69d0679d96a7c4f46daba433ba382bfeb11d4d990f5b7394a461f0e8b4f1cbf4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" alt="Java" width="40" height="40"/>
-<img src="https://camo.githubusercontent.com/2044b98d3b416afd5421b8786c8971d3c45db42408c594763704025c79d53827/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f617a75726573716c64617461626173652f617a75726573716c64617461626173652d6f726967696e616c2e737667" alt="SQL" width="40" height="40"/>
-<img src="https://camo.githubusercontent.com/80ee24b2f1d1758eeeaa65bc396e11aef6d39a394edc5c8925e2e04a5b5d3297/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="Git" width="40" height="40"/>
-<img src="https://camo.githubusercontent.com/f99a2a0a1155e5f2b7276ee8533a602c2b34e59e8d03c44c48fc4442660e9752/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667" alt="TypeScript" width="40" height="40"/>
-<img src="https://camo.githubusercontent.com/e6fea164cfe9373591d8b46fd2abd05c3d74f3f400adf9b5946a47fc3eac4e13/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="React" width="40" height="40"/>
+<p align="center">
+  I'm a passionate builder 🛠️ who loves transforming complex logic into clean, elegant applications.<br>
+  An alumnus of Telerik Academy (C# Track) 🎓, deeply rooted in the <strong>.NET ecosystem</strong> 💻, and currently expanding my horizons into <span style="white-space: nowrap;"><strong>React</strong> ⚛️</span>.
+</p>
+
+<p align="center">
+  <em>Eagerly seeking my next challenge in professional software engineering. Rocketing forward 🚀, one commit at a time.</em>
+</p>
+
+<br>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br>
+
+<h3 align="center">
+  <sub><img src="./assets/tag.svg" width="27" height="27"/></sub>&nbsp; Tech Stack
+</h3>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,aws,js,html,css,docker,apple,git,github,postman,bootstrap,blender,ps,pr&theme=dark&titles=true&perline=9" alt="My Skills" />
+  </a>
+</p>
+
+<br>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://pszostak-stats.vercel.app/api?username=Hristian-N&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=OOD2FF&icon_color=OOD2FF&text_color=33C4FF&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://pszostak-stats.vercel.app/api/top-langs/?username=Hristian-N&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=OOD2FF&text_color=33C4FF&langs_count=6" alt="Top Languages"/>
 </div>
 
-#
+<br>
 
-**🗂️ Projects (links for easier access)**
-- Swift-News-App: https://github.com/Hristian-N/Swift-News-App.git
-- React-TODO-app: https://github.com/Hristian-N/React-TODO-app.git
-- Smart-Garage-V2: https://github.com/Hristian-N/Smart-Garage-V2.git (still in development)
-- Java-User-Management-Application: https://github.com/Hristian-N/Java-User-Management-Application.git
-- CurrencyConversion: https://github.com/Hristian-N/CurrencyConversion.git
-- Krezcar.com - https://www.krezcar.com/ (source code could be given on demand)
-- Smart-garage - https://github.com/A54-Dev-Team-3/Smart-Garage
-- Forum Management System: https://github.com/Dev-team-3-A54-C/Forum_Managment_System
-- Task Management System: https://github.com/Dev-team-3-A54-C/Task_Management_System
+<img src="./assets/divider.svg" width="100%"/>
+
+<br>
+
+<h3 align="center">
+  <sub><img src="./assets/projects.svg" width="27" height="27"/></sub>&nbsp; Featured Projects
+</h3>
+
+#### 🛠️ Production Deployments
+* **[Krezcar.com](https://www.krezcar.com/)** — Full-Scale Commercial Web Application *(Source code available on demand)*
+
+#### 🚀 Individual Repositories
+* **[Smart-Garage-V2](https://github.com/Hristian-N/Smart-Garage-V2.git)** `In Development ⏳` — Next-gen auto repair management system built with **Java, Spring Boot & React**.
+* **[Java-User-Management-Application](https://github.com/Hristian-N/Java-User-Management-Application.git)** — Secure user administration system featuring robust backend architecture.
+* **[React-TODO-app](https://github.com/Hristian-N/React-TODO-app.git)** — Modern, responsive task tracker built to master reactive state management.
+* **[Swift-News-App](https://github.com/Hristian-N/Swift-News-App.git)** — Sleek, native iOS mobile news reader utilizing asynchronous API fetching.
+* **[CurrencyConversion](https://github.com/Hristian-N/CurrencyConversion.git)** — Lightweight, accurate financial utility app for real-time exchange processing.
+
+#### 👥 Team Projects
+* **[Smart-Garage (V1)](https://github.com/A54-Dev-Team-3/Smart-Garage)** — Collaborative MVC architecture platform for auto workshops.
+* **[Forum Management System](https://github.com/Dev-team-3-A54-C/Forum_Managment_System)** — Full-featured community hub with secure authentication, post tracking, and user moderation.
+* **[Task Management System](https://github.com/Dev-team-3-A54-C/Task_Management_System)** — Agile-inspired project workflow coordinator built with a high-performance database backend.
+
+<br>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br>
+
+<h3 align="center">
+  <img src="./assets/link.svg" width="28" height="28" style="vertical-align: middle;"> Contact Me
+</h3>
+
+<br>
+
+<p align="center">
+<a href="https://www.hristiann.dev" target="_blank"><img src="https://img.shields.io/badge/Website-hristiann.dev-00D2FF?style=for-the-badge&logo=accenture&logoColor=white" alt="Website" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hristiann" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0052D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="tel:+359879062731"><img src="https://img.shields.io/badge/Phone-+359879062731-00D2FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Phone" /></a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Pulsating Divider">
+</p>
