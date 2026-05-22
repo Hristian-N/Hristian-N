@@ -50,8 +50,8 @@
 </h3>
 
 <div align="center">
-  <img height="180em" src="https://pszostak-stats.vercel.app/api?username=Hristian-N&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=OOD2FF&icon_color=OOD2FF&text_color=33C4FF&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://pszostak-stats.vercel.app/api/top-langs/?username=Hristian-N&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=OOD2FF&text_color=33C4FF&langs_count=6" alt="Top Languages"/>
+  <img height="180em" src="https://pszostak-stats.vercel.app/api?username=Hristian-N&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0065C9&icon_color=OOD2FF&text_color=02CCFE&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://pszostak-stats.vercel.app/api/top-langs/?username=Hristian-N&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0065C9&text_color=02CCFE&langs_count=6" alt="Top Languages"/>
 </div>
 
 <br>
