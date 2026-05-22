@@ -98,9 +98,3 @@
   &nbsp;&nbsp;
   <a href="tel:+359879062731"><img src="https://img.shields.io/badge/Phone-+359879062731-00D2FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Phone" /></a>
 </p>
-
-<br>
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" alt="Pulsating Divider">
-</p>
