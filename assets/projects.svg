@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#00D2FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <g>
+    <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z" />
+    
+    <animate 
+      attributeName="stroke" 
+      values="#00D2FF; #0052D4; #00D2FF" 
+      dur="3s" 
+      repeatCount="indefinite" />
+  </g>
+</svg>
