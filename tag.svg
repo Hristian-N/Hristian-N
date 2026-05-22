@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#00D2FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <g>
+    <polyline points="16 18 22 12 16 6" />
+    <polyline points="8 6 2 12 8 18" />
+    <line x1="14" y1="4" x2="10" y2="20" />
+      
+    <animate 
+      attributeName="stroke" 
+      values="#00D2FF; #0052D4; #00D2FF" 
+      dur="3s" 
+      repeatCount="indefinite" />
+  </g>
+</svg>
