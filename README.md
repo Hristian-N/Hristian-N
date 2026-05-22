@@ -65,19 +65,22 @@
 </h3>
 
 #### 🛠️ Production Deployments
-* **[Krezcar.com](https://www.krezcar.com/)** — Full-Scale Commercial Web Application *(Source code available on demand)*
-
-#### 🚀 Individual Repositories
-* **[Smart-Garage-V2](https://github.com/Hristian-N/Smart-Garage-V2.git)** `In Development ⏳` — Next-gen auto repair management system built with **Java, Spring Boot & React**.
-* **[Java-User-Management-Application](https://github.com/Hristian-N/Java-User-Management-Application.git)** — Secure user administration system featuring robust backend architecture.
-* **[React-TODO-app](https://github.com/Hristian-N/React-TODO-app.git)** — Modern, responsive task tracker built to master reactive state management.
-* **[Swift-News-App](https://github.com/Hristian-N/Swift-News-App.git)** — Sleek, native iOS mobile news reader utilizing asynchronous API fetching.
-* **[CurrencyConversion](https://github.com/Hristian-N/CurrencyConversion.git)** — Lightweight, accurate financial utility app for real-time exchange processing.
+* **[Akvadar111](https://akvadar111.com)** — Programmed the complete C#/.NET REST API and relational database for Akvadar 111, reducing data retrieval time by 30% and presented the system within 2 weeks.
+* **[Polig-vidin](https://polig-vidin.com)** — Architected and deployed a responsive React front-end for Polig Vidin, transitioning the
+business to a digital-first model in under 14 days. Optimized UI performance to drive a 10% increase in user
+engagement within the first month of launch.
+* **[Krezcar.com]** — Full-Scale Commercial Web Application for a local business in the city of Vidin*(decommissioned)*
 
 #### 👥 Team Projects
 * **[Smart-Garage (V1)](https://github.com/A54-Dev-Team-3/Smart-Garage)** — Collaborative MVC architecture platform for auto workshops.
 * **[Forum Management System](https://github.com/Dev-team-3-A54-C/Forum_Managment_System)** — Full-featured community hub with secure authentication, post tracking, and user moderation.
 * **[Task Management System](https://github.com/Dev-team-3-A54-C/Task_Management_System)** — Agile-inspired project workflow coordinator built with a high-performance database backend.
+
+#### 🚀 Individual Repositories
+* **[Java-User-Management-Application](https://github.com/Hristian-N/Java-User-Management-Application.git)** — Secure user administration system featuring robust backend architecture.
+* **[React-TODO-app](https://github.com/Hristian-N/React-TODO-app.git)** — Modern, responsive task tracker built to master reactive state management.
+* **[Swift-News-App](https://github.com/Hristian-N/Swift-News-App.git)** — Sleek, native iOS mobile news reader utilizing asynchronous API fetching.
+* **[Python-CurrencyConversion](https://github.com/Hristian-N/CurrencyConversion.git)** — Lightweight, accurate financial utility app for real-time exchange processing.
 
 <br>
 
