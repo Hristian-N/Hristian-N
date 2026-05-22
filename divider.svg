@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" fill="none">
+  <path d="M0 3H1200" stroke="#00D2FF" stroke-width="6" stroke-linecap="round">
+    <animate 
+      attributeName="stroke" 
+      values="#00D2FF; #0052D4; #00D2FF" 
+      dur="3s" 
+      repeatCount="indefinite" />
+  </path>
+</svg>
