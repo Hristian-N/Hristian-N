@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,aws,js,html,css,docker,apple,git,github,postman,bootstrap,blender,ps,pr&theme=dark&titles=true&perline=9" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,nextjs,react,aws,js,html,css,docker,apple,git,github,postman,tailwind,bootstrap,blender,ps,pr&theme=dark&titles=true&perline=9" alt="My Skills" />
   </a>
 </p>
 
