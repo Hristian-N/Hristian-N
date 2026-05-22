@@ -45,6 +45,10 @@
 
 <br>
 
+<h3 align="center">
+  <sub><img src="./assets/stats.svg" width="27" height="27"/></sub>&nbsp; GitHub Stats
+</h3>
+
 <div align="center">
   <img height="180em" src="https://pszostak-stats.vercel.app/api?username=Hristian-N&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=OOD2FF&icon_color=OOD2FF&text_color=33C4FF&include_all_commits=true" alt="GitHub Stats"/>
   <img height="180em" src="https://pszostak-stats.vercel.app/api/top-langs/?username=Hristian-N&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=OOD2FF&text_color=33C4FF&langs_count=6" alt="Top Languages"/>
@@ -82,7 +86,7 @@
 <br>
 
 <h3 align="center">
-  <img src="./assets/link.svg" width="28" height="28" style="vertical-align: middle;"> Contact Me
+  <img src="./assets/link.svg" width="27" height="27" style="vertical-align: middle;"> Contact Me
 </h3>
 
 <br>
