@@ -95,9 +95,11 @@ engagement within the first month of launch.
 <br>
 
 <p align="center">
-<a href="https://www.hristiann.dev" target="_blank"><img src="https://img.shields.io/badge/Website-hristiann.dev-00D2FF?style=for-the-badge&logo=accenture&logoColor=white" alt="Website" /></a>
+<a href="https://www.hristiann.dev" target="_blank"><img src="https://img.shields.io/badge/Website-hristiann.dev-0065C9?style=for-the-badge&logo=accenture&logoColor=white" alt="Website" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hristiann" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0052D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hristiann" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0065C9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="tel:+359879062731"><img src="https://img.shields.io/badge/Phone-+359879062731-00D2FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Phone" /></a>
+  <a href="tel:+359879062731"><img src="https://img.shields.io/badge/Phone-+359879062731-0065C9?style=for-the-badge&logo=telegram&logoColor=green" alt="Phone" /></a>
+  &nbsp;&nbsp;
+<a href="mailto:hristian.kr.nikolov.com@gmail.com"><img src="https://img.shields.io/badge/Email-hristian.kr.nikolov.com%40gmail.com-0065C9?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
