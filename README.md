@@ -69,7 +69,7 @@
 * **[Polig-vidin](https://polig-vidin.com)** — Architected and deployed a responsive React front-end for Polig Vidin, transitioning the
 business to a digital-first model in under 14 days. Optimized UI performance to drive a 10% increase in user
 engagement within the first month of launch.
-* **[Krezcar.com]** — Full-Scale Commercial Web Application for a local business in the city of Vidin*(decommissioned)*
+* **Krezcar.com** — Full-Scale Commercial Web Application for a local business in the city of Vidin. *(decommissioned)*
 
 #### 👥 Team Projects
 * **[Smart-Garage (V1)](https://github.com/A54-Dev-Team-3/Smart-Garage)** — Collaborative MVC architecture platform for auto workshops.
