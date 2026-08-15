@@ -65,10 +65,8 @@
 </h3>
 
 #### 🛠️ Production Deployments
-* **[Akvadar111](https://akvadar111.com)** — Programmed the complete C#/.NET REST API and relational database for Akvadar 111, reducing data retrieval time by 30% and presented the system within 2 weeks.
-* **[Polig-vidin](https://polig-vidin.com)** — Architected and deployed a responsive React front-end for Polig Vidin, transitioning the
-business to a digital-first model in under 14 days. Optimized UI performance to drive a 10% increase in user
-engagement within the first month of launch.
+* **[Akvadar111](https://akvadar111.com)** — Programmed the complete C#/.NET REST API and relational database for Akvadar 111.
+* **[Polig-vidin](https://polig-vidin.com)** — Architected and deployed a responsive React front-end for Polig Vidin.
 * **Krezcar.com** — Full-Scale Commercial Web Application for a local business in the city of Vidin. *(decommissioned)*
 
 #### 👥 Team Projects
